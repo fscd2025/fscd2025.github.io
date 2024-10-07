@@ -103,7 +103,7 @@ h3{
 
 .header-text{    
     background-color: #95a5a688;
-    padding: 20px 0 20px;
+    padding: 20px 0;
     font-size: 22px; 
     margin-bottom: 20px;   
 }
@@ -152,6 +152,7 @@ h3{
 
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
+        font-family: 'Amerika Sans', sans-serif;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -163,6 +164,7 @@ h3{
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+        font-family: 'Amerika Sans', sans-serif;
     }
 }
 
