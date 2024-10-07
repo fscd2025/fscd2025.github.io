@@ -31,7 +31,7 @@ body.fixed-nav {
 }
 
 p{
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 p.small {
@@ -102,13 +102,15 @@ h3{
 }
 
 .header-text{    
-    /* background-color: #95a5a6; */
-    padding: 25px 0;
-    font-size: 25px;    
+    background-color: #95a5a688;
+    padding: 20px 0 20px;
+    font-size: 22px; 
+    margin-bottom: 20px;   
 }
 .header-text  > div > p{
-    text-align: center;
+    /* text-align: center; */
 }
+
 
 /**Quote**/
 .quote{
